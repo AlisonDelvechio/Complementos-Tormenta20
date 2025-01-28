@@ -143,6 +143,6 @@
   ],
   "system": "Tormenta20",
   "url": "https://github.com/AlisonDelvechio/Complementos-Tormenta20",
-  "manifest": "https://raw.githubusercontent.com/AlisonDelvechio/Complementos-Tormenta20/master/module.json",
-  "download": "https://github.com/AlisonDelvechio/Complementos-Tormenta20/master.zip"
+  "manifest": "https://github.com/AlisonDelvechio/Complementos-Tormenta20/blob/master/module.json",
+  "download": "https://github.com/AlisonDelvechio/Complementos-Tormenta20/archive/refs/tags/Release.zip"
 }
