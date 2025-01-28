@@ -2,7 +2,7 @@
   "id": "complementos-tormenta-20-compendium",
   "title": "Complementos Tormenta 20 - Compendium",
   "description": "Complementos do sistema de RPG Tormenta 20 para o FoundryVTT",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
