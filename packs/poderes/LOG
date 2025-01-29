@@ -1,0 +1,5 @@
+2025/01/29-13:58:15.974 4dbc Recovering log #126
+2025/01/29-13:58:15.974 4dbc Level-0 table #128: started
+2025/01/29-13:58:15.975 4dbc Level-0 table #128: 2252 bytes OK
+2025/01/29-13:58:15.979 4dbc Delete type=0 #126
+2025/01/29-13:58:15.979 4dbc Delete type=3 #124
