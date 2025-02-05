@@ -2,7 +2,7 @@
   "id": "complementos-tormenta-20-compendium",
   "title": "Complementos Tormenta 20 - Compendium",
   "description": "Complementos do sistema de RPG Tormenta 20 para o FoundryVTT",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
@@ -124,17 +124,28 @@
       "label": "Mapas",
       "path": "packs/mapas",
       "type": "Scene",
+      "system": "tormenta20",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "tormenta20"
+      }
     },
     {
       "name": "arquivos-uteis",
       "label": "Arquivos Úteis",
       "path": "packs/arquivos-uteis",
       "type": "JournalEntry",
+      "system": "tormenta20",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "musicas-e-efeitos",
+      "label": "Músicas e Efeitos",
+      "path": "packs/musicas-e-efeitos",
+      "type": "Playlist",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
